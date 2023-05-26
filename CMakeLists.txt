@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.2)
-project(dois_stage_controller)
+project(ROS_stage_controller)
 
 ## Compile as C++11, supported in ROS Kinetic and newer
 # add_compile_options(-std=c++11)
