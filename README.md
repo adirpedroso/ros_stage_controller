@@ -2,12 +2,13 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/adirpedroso/ROS_stage_controller/blob/main/LICENSE)
 # ROS_stage_controller
 
-Navegação de robô diferencial no ambiente de simulação Stage- Distância entre 2 pontos
 
 # Sobre o projeto:
+Navegação de robô diferencial no ambiente de simulação Stage, foi ultilizado um método de calculo entre a distância atual do robô e a coordenada desejada.
 ## Pré-requisitos
 - Python 3
 - ROS 1
+- 
 # Como executar o pacote:
 
 O seguinte comando dará clone no repositório [stage_controller](https://github.com/adirpedroso/ROS_stage_controller/tree/main) para dentro da sua pasta catkin do ROS
@@ -34,4 +35,5 @@ Após o simulador aberto, execute o script em python:
 rosrun ROS_stage_controller sh_stage_controller.py 
 ```
 
-
+# Alterar alvo desejado
+Para alterar o alvo desejado, basta alterar o target_x e o target_y, referentes as coordenadas desejadas.
