@@ -31,5 +31,7 @@ roslaunch ROS_stage_controller launcher.launch
 ```
 Após o simulador aberto, execute o script em python:
 ```bash
-roslaunch ROS_stage_controller launcher.launch 
+rosrun ROS_stage_controller sh_stage_controller.py 
 ```
+
+
