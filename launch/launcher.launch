@@ -1,0 +1,7 @@
+<launch>
+	<node name="stageros" pkg="stage_ros" type="stageros" args="$(find dois_stage_controller)/world/create_hokuyo.world"/>
+	
+	
+	
+	<!--<node pkg="dois_stage_controller" type="dois_stage_controller.py" name="dois_stage_controller" output="screen" />-->
+</launch>
