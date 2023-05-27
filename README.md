@@ -6,9 +6,10 @@
 # Sobre o projeto:
 Navegação de robô diferencial no ambiente de simulação Stage, foi ultilizado um método de calculo entre a distância atual do robô e a coordenada desejada.
 ## Pré-requisitos
+
 - Python 3
 - ROS 1
-- 
+
 # Como executar o pacote:
 
 O seguinte comando dará clone no repositório [stage_controller](https://github.com/adirpedroso/ROS_stage_controller/tree/main) para dentro da sua pasta catkin do ROS
