@@ -41,6 +41,6 @@ Para alterar o alvo desejado, basta alterar o target_x e o target_y, referentes 
 
 
 
-# [Link do vídeo explicativo: https://www.youtube.com/watch?v=VhdIODw_JAA](https://www.youtube.com/watch?v=VhdIODw_JAA)
+# [Vídeo explicativo:](https://www.youtube.com/watch?v=VhdIODw_JAA) https://www.youtube.com/watch?v=VhdIODw_JAA
 
 
