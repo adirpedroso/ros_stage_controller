@@ -4,7 +4,7 @@
 
 
 # Sobre o projeto:
-Navegação de robô diferencial no ambiente de simulação Stage, foi ultilizado um método de calculo entre a distância atual do robô e a coordenada desejada.
+Navegação de robô diferencial no ambiente de simulação Stage, foi ultilizado um método de cálculo entre a distância atual do robô e a coordenada desejada.
 ## Pré-requisitos
 
 - Python 3
