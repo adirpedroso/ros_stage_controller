@@ -12,9 +12,9 @@ Navegação de robô diferencial no ambiente de simulação Stage, foi ultilizad
 
 # Como executar o pacote:
 
-O seguinte comando dará clone no repositório [stage_controller](https://github.com/adirpedroso/ROS_stage_controller/tree/main) para dentro da sua pasta catkin do ROS
+O seguinte comando dará clone no repositório [stage_controller](https://github.com/adirpedroso/ros_stage_controller.git) para dentro da sua pasta catkin do ROS
 ```bash
-cd catkin_ws/src/ && git clone https://github.com/adirpedroso/ROS_stage_controller.git
+cd catkin_ws/src/ && git clone https://github.com/adirpedroso/ros_stage_controller.git
 ```
 Após isso, execute os seguintes comandos:
 ```bash
@@ -24,16 +24,16 @@ catkin_make
 Em seguida:
 ```bash
 source devel/setup.bash
-cd src/ROS_stage_controller/scripts/
+cd src/ros_stage_controller/scripts/
 chmod +x sh_stage_controller.py 
 ```
 Se tudo estiver certo, basta executar os passos para iniciar o ambiente Stage:
 ```bash
-roslaunch ROS_stage_controller launcher.launch 
+roslaunch ros_stage_controller launcher.launch 
 ```
 Após o simulador aberto, execute o script em python:
 ```bash
-rosrun ROS_stage_controller sh_stage_controller.py 
+rosrun ros_stage_controller sh_stage_controller.py 
 ```
 
 # Alterar alvo desejado
