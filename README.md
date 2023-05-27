@@ -1,6 +1,6 @@
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/adirpedroso/ROS_stage_controller/blob/main/LICENSE)
-# ROS_stage_controller
+# ros_stage_controller
 
 
 # Sobre o projeto:
