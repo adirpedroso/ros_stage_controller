@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>ROS_stage_controller</name>
+  <name>ros_stage_controller</name>
   <version>0.0.0</version>
-  <description>The ROS_stage_controller package</description>
+  <description>The ros_stage_controller package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
