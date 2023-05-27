@@ -37,3 +37,7 @@ rosrun ROS_stage_controller sh_stage_controller.py
 
 # Alterar alvo desejado
 Para alterar o alvo desejado, basta alterar o target_x e o target_y, referentes as coordenadas desejadas.
+
+# [Link do vídeo explicativo:](https://www.youtube.com/watch?v=VhdIODw_JAA)
+
+
